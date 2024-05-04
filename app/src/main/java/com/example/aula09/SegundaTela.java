@@ -65,10 +65,4 @@ public class SegundaTela extends AppCompatActivity {
 
 
     }
-    private void limparCampos(){
-        editCodigo.setText("");
-        editNome.setText("");
-        editEmail.setText("");
-        editTel.setText("");
-    }
 }
